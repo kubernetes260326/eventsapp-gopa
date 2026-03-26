@@ -1,2 +1,2 @@
-# eventsapp-gopa
-Kuber Tranining
+# eventsappstart
+This is a simple events app
